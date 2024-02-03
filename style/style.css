@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: font-family: 'Arimo', sans-serif;
+}
+
+#section{
+    background-color: #fbf1fd;
+    height: 740px;
+}
+
+#section .maincontainer{
+    width: 1120px;
+    margin: 0 auto;
+}
+#section .container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    padding: 25px 0;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    margin-left: 40px;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #848484;
+}
+.nav .a_home{
+    color: #00b8ef;
+}
+
+.btn a{
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 3px;
+    margin-left: 40px;
+    background: linear-gradient(to right, #00b8ef, #58d2f5);
+}
+
+.container{
+    width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+.headingtitle h1{
+    width: 550px;
+    font-size: 58px;
+    font-family: 'Abril Fatface', serif;
+    font-weight: 900;
+}
+
+.headingtitle p{
+    width: 590px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.headingimg{
+    padding: 50px 0;
+}@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+
+
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: font-family: 'Arimo', sans-serif;
+}
+
+#section{
+    background-color: #fbf1fd;
+    height: 740px;
+}
+
+#section .maincontainer{
+    width: 1120px;
+    margin: 0 auto;
+}
+#section .container{
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo{
+    padding: 25px 0;
+}
+
+.nav ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav ul{
+    list-style: none;
+}
+.nav ul li{
+    margin-left: 40px;
+}
+
+.nav ul li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: 600;
+    color: #848484;
+}
+.nav .a_home{
+    color: #00b8ef;
+}
+
+.btn a{
+    padding: 20px;
+    font-size: 20px;
+    color: white;
+    font-weight: 600;
+    text-decoration: none;
+    text-transform: capitalize;
+    border-radius: 3px;
+    margin-left: 40px;
+    background: linear-gradient(to right, #00b8ef, #58d2f5);
+}
+
+.container{
+    width: 1120px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+
+.headingtitle h1{
+    width: 550px;
+    font-size: 58px;
+    font-family: 'Abril Fatface', serif;
+    font-weight: 900;
+}
+
+.headingtitle p{
+    width: 590px;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.headingimg{
+    padding: 50px 0;
+}
